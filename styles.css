@@ -189,7 +189,7 @@ nav {
 }
 
 .portfolio__card:nth-child(1)::after {
-  content: "Porträttfotografering";
+  content: "Porträtt";
   color: #ffb700;
 }
 
